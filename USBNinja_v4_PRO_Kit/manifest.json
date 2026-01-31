@@ -1,0 +1,28 @@
+{
+    "version": "4.0 PRO",
+    "target": {
+        "os": "linux",
+        "arch": "x86_64",
+        "kernel": "6.1.102",
+        "user": "ubuntu",
+        "is_admin": false,
+        "av_detected": []
+    },
+    "strategy": {
+        "target": "linux",
+        "evasion": "standard",
+        "recommended_payload": "reverse_tcp",
+        "persistence": "user_init"
+    },
+    "exploit": {
+        "name": "Dirty Pipe (CVE-2022-0847)",
+        "module": "exploit/linux/local/cve_2022_0847_dirtypipe",
+        "reliability": "excellent"
+    },
+    "c2_config": {
+        "lhost": "1.1.1.1",
+        "lport": 4444,
+        "monitor_port": 2222
+    },
+    "success_probability": "92.4%"
+}
