@@ -1,8 +1,10 @@
-# Phone-Based Interaction Guide for ZERO_SPLOIT_USB v6.0
+# 📱 Phone-Based Interaction Guide for ZERO_SPLOIT_USB v6.0
+
+This guide details how to leverage the **"Live Watch"** feature of ZERO_SPLOIT_USB v6.0 "The Singularity Edition" for real-time monitoring and interaction with your C2 sessions directly from your mobile device (smartphone or tablet).
 
 ZERO_SPLOIT_USB v6.0 "The Singularity Edition" includes a powerful "Live Watch" feature, allowing you to monitor and interact with your C2 sessions directly from your mobile device (smartphone or tablet). This guide will walk you through the process.
 
-## 📱 Prerequisites
+## 📋 Prerequisites
 
 Before you begin, ensure you have the following:
 
@@ -14,7 +16,7 @@ Before you begin, ensure you have the following:
 3.  **Internet Connectivity**: Your mobile device needs an active internet connection to reach your VPS.
 4.  **SSH Credentials**: You will need the username and password (or SSH key) for your C2 server.
 
-## 📡 Connecting to Your C2 Server via SSH
+## 📡 Connecting to Your C2 Server via SSH (Mobile)
 
 Follow these steps to establish an SSH connection from your phone to your C2 server:
 
@@ -32,7 +34,7 @@ Follow these steps to establish an SSH connection from your phone to your C2 ser
 
 Once connected, you will have a command-line interface to your C2 server.
 
-## 👁️ Interacting with Live Watch Sessions
+## 👁️ Interacting with Live Watch Sessions (Mobile)
 
 After connecting to your C2 server via SSH, you can interact with the live reverse shell sessions established by ZERO_SPLOIT_USB v6.0. The exact commands will depend on your C2 framework (e.g., Sliver, Metasploit, or a custom handler).
 
@@ -56,7 +58,7 @@ ls -la
 
 **Important**: Refer to your `VPS_DEPLOYMENT_GUIDE.md` and the documentation of your chosen C2 framework (e.g., Sliver, Metasploit) for specific commands to manage and interact with sessions.
 
-## 🔒 Security Considerations
+## 🛡️ Security Considerations
 
 *   **Strong Passwords/SSH Keys**: Always use strong, unique passwords or, preferably, SSH keys for your VPS.
 *   **Two-Factor Authentication (2FA)**: Enable 2FA on your SSH client app and VPS for an added layer of security.
