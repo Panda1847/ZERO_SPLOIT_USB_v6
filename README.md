@@ -1,6 +1,19 @@
 # ZERO_SPLOIT_USB v6.0: The Singularity Edition
 
-![ZERO_SPLOIT_USB Logo](https://raw.githubusercontent.com/Panda1847/ZERO_SPLOIT_USB_v6/main/assets/logo.png) <!-- Placeholder for a future logo -->
+<p align="center">
+  <img src="assets/logo.png" alt="ZERO_SPLOIT_USB Logo" width="600">
+</p>
+
+<p align="center">
+  <strong>The Singularity Edition (v6.0)</strong><br>
+  <em>Unified, Self-Healing, and Ultra-Smart Universal USB Exploitation Framework</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-6.0_Singularity-blueviolet?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Success_Rate-95.8%25-success?style=for-the-badge" alt="Success Rate">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
+</p>
 
 ## 🚀 Overview
 
