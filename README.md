@@ -106,9 +106,6 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## 📞 Support & Contact
 
-For any questions, issues, or advanced support, please open an issue on the GitHub repository. We are committed to maintaining and improving this powerful framework.
-
----
-**Author**: Manus AI  
-**Version**: 6.0 SINGULARITY  
-**Status**: Final Rebuild Complete - Maximum Intelligence Engaged
+For any questions, issues, or advanced support, please open an issue on the GitHub repository Email Panda7120@proton.me support 7734589570
+**Author**: Michael Lastovich 
+**Version**: 6.0 SINGULARITY
