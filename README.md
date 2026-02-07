@@ -1,4 +1,11 @@
-# ZERO_SPLOIT_USB v6.0: The Singularity Edition
+# ZERO_SPLOIT_USB_v6
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Panda1847/ZERO_SPLOIT_USB_v6)](https://github.com/Panda1847/ZERO_SPLOIT_USB_v6/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Panda1847/ZERO_SPLOIT_USB_v6)](https://github.com/Panda1847/ZERO_SPLOIT_USB_v6/network)
+[![GitHub issues](https://img.shields.io/github/issues/Panda1847/ZERO_SPLOIT_USB_v6)](https://github.com/Panda1847/ZERO_SPLOIT_USB_v6/issues)
+[![Language](https://img.shields.io/badge/language-Python-blue.svg)](https://github.com/Panda1847/ZERO_SPLOIT_USB_v6)
+
 
 <p align="center">
   <img src="assets/logo.png" alt="ZERO_SPLOIT_USB Logo" width="600">
